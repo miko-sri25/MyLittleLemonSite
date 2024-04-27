@@ -17,6 +17,10 @@ Here are some screenshots of the website I created:
 ![image](https://github.com/miko-sri25/MyLittleLemonSite/assets/52534997/989c0db2-9031-4c45-bd98-df5a6467ef67)
 
 
+>> TECH STACK:
+   HTML, CSS, BOOTSTRAP,React, JSX
+
+
 
 
 
