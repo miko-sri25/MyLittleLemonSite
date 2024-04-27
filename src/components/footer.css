@@ -1,0 +1,23 @@
+.footer {
+    border-top: 10px groove #495e57;
+    display: flex;
+    height: auto;
+    justify-content: center;
+    width: 100%;
+    background-color: #eefaf6;
+}
+.four, .three, .two {
+    margin: 2em 0em 3em;
+    width: 20%;
+    display: flex;
+}
+.four ul, .three ul, .two ul{
+    list-style-type: none;
+}
+.four h2, .three h2, .two h2{
+    color: #f4ce14;
+}
+.one{
+    margin-right: 14em;
+    margin-top: 2em;
+}
